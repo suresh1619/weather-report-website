@@ -129,5 +129,5 @@ STATICFILES_DIRS=[
     BASE_DIR,'static'
 ]
 
-WEATHER_API_KEY='668af2db3004485c92074505250601'
+WEATHER_API_KEY='########################'
 
