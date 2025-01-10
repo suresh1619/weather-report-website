@@ -1,6 +1,6 @@
 import requests
 
-api_key = '668af2db3004485c92074505250601'
+api_key = '#################'
 city = 'sattenapalle'
 url = f'http://api.weatherapi.com/v1/current.json?key={api_key}&q={city}&aqi=no'
 
